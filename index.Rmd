@@ -3,5 +3,7 @@ title: "index"
 output: html_document
 date: "2024-03-06"
 ---
+## Feast Your Eyes!
+Reminder to look up fromm the desktop sometimes
 
-![Tswalu Kalahari Reserve (2023)](IMG_1304.jpeg)
+![Tswalu Kalahari Reserve (2023)](images/IMG_1304.jpeg)
